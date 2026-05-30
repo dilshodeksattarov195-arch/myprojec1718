@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenualidate",
+        "uuid": 15157914,
+        "checksum": "ob8gm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
